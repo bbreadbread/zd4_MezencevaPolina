@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CrimeIntent</string>
+    <string name="crime_title_hint">Введите суть преступления.</string>
+    <string name="crime_title_label">Преступление</string>
+    <string name="crime_details_label">Детали</string>
+    <string name="crime_solved_label">Решено</string>
+    <string name="crime_suspect_text">Выберите Подозреваемого</string>
+    <string name="crime_report_text">Отправить отчет о преступлении</string>
+    <string name="crime_report">%1$s! Преступление обнаружено %2$s. %3$s, и %4$s</string>
+    <string name="crime_report_solved">Дело раскрыто</string>
+    <string name="crime_report_unsolved">Дело не раскрыто</string>
+    <string name="crime_report_no_suspect">подозреваемых нет.</string>
+    <string name="crime_report_suspect">подозреваемый: %s.</string>
+    <string name="crime_report_subject">CriminalIntent Report</string>
+    <string name="send_report">Send crime report via</string>
+    <string name="call_suspect">Звонок подозреваемому</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
